@@ -1,8 +1,8 @@
 # Command-Line-Linux
 Một số lệnh cơ bản trong Linux
 
-[1. Kiến thức cơ bản về các khối lệnh trong Linux] (#lenhlinux)
-[2. Kiến thức các khối lệnh cơ bản dùng dể xử lý văn bản] (#vanban)
+[1. Kiến thức cơ bản về các khối lệnh trong Linux](#lenhlinux)
+[2. Kiến thức các khối lệnh cơ bản dùng dể xử lý văn bản](#vanban)
 
 ==================================================================
 <a name="lenhlinux"></a>
